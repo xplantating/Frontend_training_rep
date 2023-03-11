@@ -3,10 +3,22 @@ A repository just to learn some react features and things.
 
 This repository is made to learn some React + mui features, with ready-to-use backend for learning requets to backend. Here you will build frontend for a simple "Hello React" webapp.
 
+
+### Stack
+- yarn - package manager we will use for this
+- express (in backend)
+- React
+- MUI (is ok to use)
+- axios (for making requests, especially POST requests)
+
 ## Repository overview
 
 - backend/ - folder that contains everything connected to backend, while learning, you will use it just to start backend server
 - frontend/ - folder that contains everything connected to frontend, the place where you will do all the magic.
+- frontend/.gitignore - contains what should be ignored by Git
+- frontend/README.md - is a standard file generated from (yarn create react-app {app_name})
+- frontend/package.json - file that contains all packages that should be installed to run this project
+- frontend/yarn.lock - standard generated file by yarn
 - frontend/public - folder with static files
     - index.html - html main file
     - logo*, favicon.ico - icons
@@ -22,9 +34,4 @@ This repository is made to learn some React + mui features, with ready-to-use ba
 - REST_API.md - file with all routes to access when making requests
 
 
-### Stack
 
-- express (in backend)
-- React
-- MUI (is ok to use)
-- axios (for making requests, especially POST requests)
