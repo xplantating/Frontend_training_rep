@@ -10,6 +10,7 @@ ALL NEW COMPONENTS YOU MAKE SHOULD BE IMPORTED TO App.js FUNCTION, AND SHOULD HA
     - details: Make a request to backend (when initialization, better use useEffect() function from react) to get message. To see route you should make request to, check out REST_API.md. When backend is not accessible, not running, message should be "Loading..." instead of the message you get from backend
 4. Make a SearchBar.js file, and make SearchBar component, also make searchInfo.js file which will contain javascript object, and which you will use to obtain information from.
     - details: SearchBar component should map from object(s) in searchInfo.js file, it should return either item from object or nothing (because, it doesn't exist in searchInfo.js file). Write films you like in searchInfo.js, so, it should look like (it should contain name of film, and year!):
+    - Minimal amount of films: 5 films
     <pre>
     {
         name: "Lord of the Rings: The Fellowship of the Ring',
