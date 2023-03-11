@@ -3,7 +3,7 @@
 ALL NEW COMPONENTS YOU MAKE SHOULD BE IMPORTED TO App.js FUNCTION, AND SHOULD HAVE A RIGHT PLACE. SO, WATCH DETAILS, TO GET INFORMATION ABOUT COMPONENTS YOU MAKE
 
 1. Edit public/index.html and public/manifest.json 
-    - details: edit name of site, and description (name of app you're making "Hello React"). Name of site and description should represent the name of app, it's aim. 
+    - details: edit name of site, and description (name of app you're making "Hello React"). Name of site and description should represent the name of app, it's the aim. 
 2. Make a MainWrapper.js file, and make component called MainWrapper. 
     - details: The component MainWrapper should be a container for every other container you will make. 
 3. Make a Hello.js file, and make Hello component.
