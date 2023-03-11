@@ -22,3 +22,6 @@ ALL NEW COMPONENTS YOU MAKE SHOULD BE IMPORTED TO App.js FUNCTION, AND SHOULD HA
     - details: USE AXIOS FOR THIS TASK; user should input his email, and it should be submitted to the route (see REST_API.md), also, then message from response should be displayed, like: Successfully submitted email: {message}. Also, if something goes wrong, error message should be made, and displayed. 
 6. Make a Personal.js, and a Personal component.
     - details: This component should render some information about you, picture, name, link to github account.
+7. Make a Header.js and a Header component.
+    - details: this component should display navigation for the page, when you click, you should be taken to the part of site you want.
+    - additionally: should display login or account depends on what props is given to the component. If user then display account, if guest then display login
