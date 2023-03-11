@@ -34,4 +34,16 @@ This repository is made to learn some React + mui features, with ready-to-use ba
 - REST_API.md - file with all routes to access when making requests
 
 
+## How to start project
+
+To run this project correctly you need first to install all the dependencies.
+- go to backend folder first, execute <code>$ yarn install</code> there
+- go to frontend folder, execute <code>$ yarn install</code> there
+- when all dependecies are installed, you can start project
+
+TO START BACKEND SERVER:
+- go to backend folder and execute <code>$ yarn start </code>
+
+TO START FRONTEND SERVER:
+- go to frontend folder and execute <code>$ yarn start </code>
 
