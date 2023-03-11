@@ -18,4 +18,6 @@ ALL NEW COMPONENTS YOU MAKE SHOULD BE IMPORTED TO App.js FUNCTION, AND SHOULD HA
     }
     </pre>
 5. Make a SubmitEmail.js, and SubmitEmail component.
-    - details: 
+    - details: user should input his email, and it should be submitted to the route (see REST_API.md), also, then message from response should be displayed, like: Successfully submitted email: {message}. Also, if something goes wrong, error message should be made, and displayed. 
+6. Make a Personal.js, and a Personal component.
+    - details: This component should render some information about you, picture, name, link to github account.
