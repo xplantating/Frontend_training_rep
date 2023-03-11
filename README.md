@@ -5,7 +5,7 @@ This repository is made to learn some React + mui features, with ready-to-use ba
 
 
 ### Stack
-- yarn - package manager we will use for this
+- yarn - package manager we will use for this project, so check if it's installed
 - express (in backend)
 - React
 - MUI (is ok to use)
