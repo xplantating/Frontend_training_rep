@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "lang": "ru",
+  "short_name": "Hi React",
+  "name": "Hello React",
   "icons": [
     {
       "src": "favicon.ico",
