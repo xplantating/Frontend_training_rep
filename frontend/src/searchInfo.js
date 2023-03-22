@@ -1,11 +1,11 @@
 export const films = [
   {
-    name: "Transformers",
+    name: "Transformers 1",
     year: "2007",
     rating: "10/10"
   },
   {
-    name: "Transformers revenge of the fallen",
+    name: "Transformers 2 revenge of the fallen",
     year: "2009",
     rating: "10/10"
   },

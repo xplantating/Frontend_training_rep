@@ -3,6 +3,9 @@ import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
+import Avatar from '@mui/material/Avatar';
+import Box from '@mui/material/Box';
+import './avatar.jpeg';
 import './App.css';
 
 export default function Personal(props) {
@@ -10,7 +13,9 @@ export default function Personal(props) {
       <>
       <Container sx={{mt: 15}}>
         <CardContent sx={{ml: 15}}>
-      <img src='personalphoto.jpeg' alt='personalphoto' className="personalphoto"/>
+          <Box>
+          <Avatar src='avatar.jpeg' alt="personalphoto"  />
+     </Box>
       <Typography variant='h1' color='black'>
         My name is Andrew
       </Typography>
