@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 
-const pages = ['Login'];
+const pages = ['Login', 'Personal', 'Hello'];
 const settings = ['Profile', 'Account', 'Logout'];
 
 export default function Header(props) {
